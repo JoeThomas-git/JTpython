@@ -1,3 +1,4 @@
+#This script tests your internet speed (download/upload/ping).
 import speedtest
 
 st = speedtest.Speedtest()
